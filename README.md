@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hello!
+I'm a Computer Science student at AGH University of Science and Technology in Kraków, Poland.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VeryLongNicknameSuchWow&theme=transparent&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
