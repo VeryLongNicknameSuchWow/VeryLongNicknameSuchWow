@@ -2,7 +2,6 @@
 
 Here is me:
  - Computer Science graduate from AGH University of Science and Technology in Kraków
- - Current CS student at Warsaw University of Technology
  - Professional CRUD blacksmith and Git shitposter
  - Aviation freak, virtual airspace maxxer
  - Monad-brained degenerate, born to function pure, forced to side-effect irl
